@@ -1,7 +1,7 @@
 # CSA02 – Assignment 5
 Student name: S Mary Jehonna
-Register number: [ENTER YOUR REGISTER NUMBER]
-GitHub repository: CSA02-[RegisterNumber]-Assignment5
+Register number: [1965260089]
+GitHub repository: [https://github.com/maryjehonna7b-afk/-CSA02-1965260089-Assignment5.git]
 
 ## Compiler
 Record your actual compiler and version:
