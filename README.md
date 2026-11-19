@@ -21,6 +21,3 @@ gcc -std=c11 -Wall -Wextra -pedantic B4/growable_donors.c -o growable_donors
 
 ## Task folders
 A1–A5 contain design/report materials to complete. B1, B3 and B4 contain the completed code for the three supplied TODO programs. B2 contains an experiment record template.
-
-## Important
-Do not submit invented measurements. Run the programs on your own computer, record actual compiler/version, execution times, file sizes, sanitizer/Valgrind output and screenshots, then update the report. Commit progressively at least once per task.
