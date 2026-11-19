@@ -1,0 +1,2 @@
+# A5 Design
+See file_storage.c. Donor records use delimited text; fixed-size stock records use binary records and fseek/fread/fwrite for indexed in-place updates. Binary layout portability requires explicit serialization for cross-platform interchange.

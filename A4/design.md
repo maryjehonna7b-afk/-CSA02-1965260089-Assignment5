@@ -1,0 +1,2 @@
+# A4 Design
+See growable_list.c. Capacity starts at 2 and doubles. realloc result is held in a temporary pointer so failure does not lose the original allocation. Doubling gives O(n) total copied elements over n appends; fixed increments of 10 can yield O(n^2) copying.

@@ -1,0 +1,2 @@
+# B1 Experiments
+Run with exponents that do not overflow long long. For n=10,100,1000,10000 record linear calls n+1 and fast calls floor(log2(n))+1 for this implementation. Avoid invoking linear recursion at huge n without a controlled environment. Compare iterative square-and-multiply.

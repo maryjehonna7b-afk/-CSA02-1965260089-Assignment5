@@ -1,0 +1,2 @@
+# A1 Design
+Functional decomposition, prototypes, parameter passing and two-result alternatives are demonstrated in bloodbank_modular.c. Complexity: donor search O(n), auxiliary space O(1). Global variables do not change asymptotic complexity but increase coupling and reduce testability.

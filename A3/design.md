@@ -1,0 +1,2 @@
+# A3 Design
+See pointers_cli.c. p+3 points to element 3; *(p+3) and p[3] read it; *p++ reads current element then advances p. The lowest-stock function returns an address into caller-owned array, never a local variable. Index return is safer across realloc.

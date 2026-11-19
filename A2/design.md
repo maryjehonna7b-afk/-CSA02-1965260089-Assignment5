@@ -1,0 +1,2 @@
+# A2 Design
+See recursion_design.c. Digital root recursively reduces digit sum; fast power recurses on exponent/2 and computes the half exactly once. Linear power O(n) time/O(n) stack; fast power O(log n) time/O(log n) stack. Loop/formula digital-root alternatives use O(1) stack.
